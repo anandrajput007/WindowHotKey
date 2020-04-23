@@ -8,6 +8,8 @@
 | --- | --------- |
 |1  | [Virtual Desktop](#Virtual-Desktop) |
 |2  | [Split Screen](#Split-Screen) |
+|3  | [Switch Apps](#Switch-Apps) |
+|4  | [Minimize All Apps](#Minimize-All-Apps) |
 
 1. ### Virtual Desktop
     Win + Ctrl + D Key (Create A Virtual Desktop)
@@ -18,4 +20,20 @@
 
 2. ### Split Screen
     Win + Left/Right Key (Open App and run command)
+
+3. ### Switch Apps
+    Alt + Tab Key (Forward Selection)
+
+    Alt + Tab + Shift Key (Backward Selection)
+
+    Alt + Tab + Ctrl Key (Show All Running Apps)
+
+    Win + Tab Key (Show All Running Apps)
+
+4. ### Minimize All Apps
+    Win + D Key
+
+    Win + M Key
     
+
+
