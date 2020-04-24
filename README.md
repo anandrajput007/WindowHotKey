@@ -1,4 +1,4 @@
-# WindowHotKey
+# Window Hot Key
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@anandrajput007](https://twitter.com/anandrajput007) &amp; [@kodexpression](https://twitter.com/kodexpression) for technical updates.
 
